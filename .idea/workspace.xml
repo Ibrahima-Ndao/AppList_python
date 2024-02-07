@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6c78a21-6f3b-4cb1-aa35-73eac8a24f66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AppList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="a6c78a21-6f3b-4cb1-aa35-73eac8a24f66" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -126,7 +118,7 @@
       <workItem from="1706663670780" duration="69000" />
       <workItem from="1706667799974" duration="16000" />
       <workItem from="1706667894197" duration="4316000" />
-      <workItem from="1707330795570" duration="7560000" />
+      <workItem from="1707330795570" duration="7868000" />
     </task>
     <servers />
   </component>
