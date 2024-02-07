@@ -21,7 +21,7 @@ if __name__ == '__main__':
         print('2.Add a list at the beginning')
         print('3.Retrieve a list')
         print('4.Delete a kay in the list')
-        print('5.insert an item after the key')
+        print('5.insert an item at the beginning')
         print('6.sort')
         choice = int(input('Your choice: '))
         if choice == 1:
